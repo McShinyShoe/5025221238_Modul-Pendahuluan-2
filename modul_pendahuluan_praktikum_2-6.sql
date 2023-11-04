@@ -1,0 +1,1 @@
+INSERT INTO Pegawai (NIK, Nama_Pegawai, Umur) VALUES ('1111222233334444', 'Maimunah', 25);

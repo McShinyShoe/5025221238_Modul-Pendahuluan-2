@@ -1,0 +1,2 @@
+INSERT INTO Transaksi (ID_transaksi, Tanggal_transaksi, Metode_pembayaran, Pegawai_NIK, Customer_ID_customer) VALUES ('TRX0000007', '2023-10-03', 'Transfer bank', '2345678901234561', 'CTRo04');
+INSERT INTO Transaksi_minuman (TM_Transaksi_ID, TM_Menu_minuman_ID, Jumlah_cup) VALUES ('TRX0000007', 'MNM005', 1);
